@@ -4,8 +4,4 @@ metadata:
   name: demo-stable-policies-placement
 spec:
   clusterSelector:
-    matchExpressions:
-      - key: local-cluster
-        operator: In
-        values:
-          - "true"
+    matchExpressions: []

@@ -5,7 +5,7 @@
     "value": {
       "placementRef": {
         "kind": "PlacementRule",
-        "name": "##NAME##-placement"
+        "name": "demo-stable-policies-placement"
       }
     }
   }
